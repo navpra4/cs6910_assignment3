@@ -89,7 +89,6 @@ The following table contains the arguments supported by the train.py file
 |-dpo, --dropout | 0.2 | choices: int|
 |-bd,--bidirectional | True| choices:[False, True]|
 |-atn,--attention|True| choices: [False, True]|
-|-d,--dropout|0.3 | dropout value|
 |-emsz,--embedding_size| 128 | embedding size  in the network|
 |-sz,--hidden_size| 5 | size of Hidden layer|
 
